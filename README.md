@@ -1,2 +1,2 @@
-# document-bot
-A ChatBot that answers questions to your text document.
+# DocumentBot
+DocumentBot is a ChatBot that answers questions to a provided text document.
